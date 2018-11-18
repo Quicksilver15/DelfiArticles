@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DelfiArticleTest3 {
+public class DelfiArticleTest {
     private final By WEB_ARTICLE = By.xpath(".//a[@class = 'text-mine-shaft']");
     private final By MOB_ARTICLE = By.xpath(".//a[@class = 'md-scrollpos']");
     private WebDriver browser;
